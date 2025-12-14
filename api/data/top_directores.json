@@ -1,0 +1,132 @@
+[
+  {
+    "director":"Martin Scorsese",
+    "avg_vote_average":7.38125,
+    "movie_count":16
+  },
+  {
+    "director":"David Fincher",
+    "avg_vote_average":7.34,
+    "movie_count":10
+  },
+  {
+    "director":"Francis Ford Coppola",
+    "avg_vote_average":7.25,
+    "movie_count":10
+  },
+  {
+    "director":"Richard Linklater",
+    "avg_vote_average":7.01,
+    "movie_count":10
+  },
+  {
+    "director":"Steven Spielberg",
+    "avg_vote_average":6.9740740741,
+    "movie_count":27
+  },
+  {
+    "director":"Robert Zemeckis",
+    "avg_vote_average":6.9153846154,
+    "movie_count":13
+  },
+  {
+    "director":"Woody Allen",
+    "avg_vote_average":6.8833333333,
+    "movie_count":12
+  },
+  {
+    "director":"Clint Eastwood",
+    "avg_vote_average":6.8578947368,
+    "movie_count":19
+  },
+  {
+    "director":"Rob Reiner",
+    "avg_vote_average":6.73,
+    "movie_count":10
+  },
+  {
+    "director":"Tim Burton",
+    "avg_vote_average":6.7285714286,
+    "movie_count":14
+  },
+  {
+    "director":"Ridley Scott",
+    "avg_vote_average":6.69375,
+    "movie_count":16
+  },
+  {
+    "director":"Ron Howard",
+    "avg_vote_average":6.6727272727,
+    "movie_count":11
+  },
+  {
+    "director":"Oliver Stone",
+    "avg_vote_average":6.5846153846,
+    "movie_count":13
+  },
+  {
+    "director":"Brian De Palma",
+    "avg_vote_average":6.525,
+    "movie_count":12
+  },
+  {
+    "director":"Tony Scott",
+    "avg_vote_average":6.5166666667,
+    "movie_count":12
+  },
+  {
+    "director":"Richard Donner",
+    "avg_vote_average":6.43,
+    "movie_count":10
+  },
+  {
+    "director":"Michael Bay",
+    "avg_vote_average":6.4,
+    "movie_count":12
+  },
+  {
+    "director":"Steven Soderbergh",
+    "avg_vote_average":6.3,
+    "movie_count":14
+  },
+  {
+    "director":"Joel Schumacher",
+    "avg_vote_average":6.1833333333,
+    "movie_count":12
+  },
+  {
+    "director":"Kevin Smith",
+    "avg_vote_average":6.18,
+    "movie_count":10
+  },
+  {
+    "director":"Shawn Levy",
+    "avg_vote_average":6.03,
+    "movie_count":10
+  },
+  {
+    "director":"Wes Craven",
+    "avg_vote_average":5.95,
+    "movie_count":10
+  },
+  {
+    "director":"Robert Rodriguez",
+    "avg_vote_average":5.875,
+    "movie_count":16
+  },
+  {
+    "director":"Bobby Farrelly",
+    "avg_vote_average":5.8272727273,
+    "movie_count":11
+  },
+  {
+    "director":"Paul W.S. Anderson",
+    "avg_vote_average":5.81,
+    "movie_count":10
+  },
+  {
+    "director":"Renny Harlin",
+    "avg_vote_average":5.7142857143,
+    "movie_count":14
+  }
+]

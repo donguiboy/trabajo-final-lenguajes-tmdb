@@ -104,6 +104,7 @@ La API consume archivos JSON generados previamente durante el análisis y los de
 ---
 
 ## Estructura del repositorio
+```
 trabajo-final-lenguajes-tmdb/
 │
 ├── notebook/
@@ -121,7 +122,7 @@ trabajo-final-lenguajes-tmdb/
 │
 ├── video.txt
 └── README.md
-
+```
 
 ---
 

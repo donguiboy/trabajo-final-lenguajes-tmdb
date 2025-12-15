@@ -111,7 +111,7 @@ trabajo-final-lenguajes-tmdb/
 │ └── trabajo_final_lenguajes_JaureguiLorda_Lara.ipynb
 │
 ├── informe/
-│ └── informe_final.pdf
+│ └── informe.pdf
 │
 ├── api/
 │ ├── app.py

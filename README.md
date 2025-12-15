@@ -108,7 +108,7 @@ La API consume archivos JSON generados previamente durante el análisis y los de
 trabajo-final-lenguajes-tmdb/
 │
 ├── notebook/
-│ └── analisis_tmdb.ipynb
+│ └── trabajo_final_lenguajes_JaureguiLorda_Lara.ipynb
 │
 ├── informe/
 │ └── informe_final.pdf
